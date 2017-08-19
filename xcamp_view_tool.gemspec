@@ -10,8 +10,8 @@ Gem::Specification.new do |spec|
   spec.email         = ["smbaiges@gmail.com"]
 
   spec.summary       = %q{This is for educational purposes. Various view specific methods for the app we use}
-  spec.description   = %q{TODO: Provides html data}
-  spec.homepage      = "TODO: example.com"
+  spec.description   = %q{Provides html data}
+  spec.homepage      = "http://www.recl.com.br"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
